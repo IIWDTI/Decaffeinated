@@ -1,4 +1,16 @@
-# Decaffeinated
+# Decaffeinated - Commandline tool for turning C1E on or off (ADVANCED USERS)
 
-Commandline tool for turning C1E on or off
+# Why?
+
+After using HWiNFO64 i noticed small core fluctuations even when "power settings" was set to "Max" settings, i found out turning off C1E in either Bios or Windows, and at the same time forcing the CPU to use 100% in power settings got rid of the problem.
+
+# How?
+
+Download the "RunCPUatMax.bat" and the "Decaffeinated.exe", run both of them.
+
+# Example
+
+Decaffeinated <true, false, status>
+
+# I am not responsible for any damage if this tool/source code is used wrong!
 
