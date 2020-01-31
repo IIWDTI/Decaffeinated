@@ -6,6 +6,8 @@ After using HWiNFO64 i noticed small core fluctuations even when "power settings
 
 Picture of the problem: https://imgur.com/TBVJvjc
 
+Using this tool will enable a true max power setting.
+
 # How?
 
 C1E Enabled in BIOS: Download the "RunCPUatMax.bat" and the "Decaffeinated.exe", run both of them.
