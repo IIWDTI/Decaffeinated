@@ -7,6 +7,7 @@ After using HWiNFO64 i noticed small core fluctuations even when "power settings
 # How?
 
 C1E Enabled in BIOS: Download the "RunCPUatMax.bat" and the "Decaffeinated.exe", run both of them.
+
 C1E Disabled in BIOS: Only download the "RunCPUatMax.bat".
 
 # Example
