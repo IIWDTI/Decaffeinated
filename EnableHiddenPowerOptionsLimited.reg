@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+;Processor idle demote threshold, 40%
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\4b92d758-5a24-4851-a470-815d78aee119]
+"Attributes"=dword:00000002
+
+;Processor idle promote threshold, 60%
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\7b224883-b3cc-4d79-819f-8374152cbe7c]
+"Attributes"=dword:00000002
