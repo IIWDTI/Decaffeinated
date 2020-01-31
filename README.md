@@ -1,3 +1,4 @@
 # Decaffeinated
 
-Commandline tool for changing C1E
+Commandline tool for turning C1E on or off
+
